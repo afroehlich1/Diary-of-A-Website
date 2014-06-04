@@ -1,0 +1,48 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+#title {
+	text-align:center;
+	font-size 50px;
+	color:Black;
+	font-weight:bold;
+	text-shadow:3px 3px #646060;
+	text-outline: 1px #F3F3F3;
+	-webkit-text-stroke: 1px #8F8F8F;
+	
+}
+
+.top_liner {
+	padding-right:50px;
+	text-align:right;
+}
+
+.left_text {
+
+}
+	
+.article_image {
+	float:left;
+	padding: 5px;
+}
+
+.article_text {
+	width:275px;
+	padding-left:20px;
+	padding-top:10px;
+}
+
+.article_text2 {
+	float:left;
+	width:222px;
+	margin-left:20px;
+}
+
+.sidebar {
+	padding-left:30px;
+}
+
+#return {
+	visibility:hidden;
+}
